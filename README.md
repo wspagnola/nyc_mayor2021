@@ -1,11 +1,13 @@
 # NYC 2021 Mayoral Election: Democratic Primary
 
-## data_extract.R
+## Scripts 
+
+#### data_extract.R
 1. Pulls data from NYC Board of Elections (BOE)
 2. Creates main file with data from each round
 3. Creates rcv_links.csv and rcv.nodes.csv with data from rounds 6-8 for network Sankey Diagram
 
-## nyc_mayor_sankey.R
+#### nyc_mayor_sankey.R
 1. Creates interactive of rounds 6-8 of the Ranked Choice Voting (RCV) results 
 
 ## Notes
